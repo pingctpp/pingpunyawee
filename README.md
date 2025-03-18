@@ -5,7 +5,7 @@
 - 🌱 ฉันกำลังเรียนรู้เกี่ยวกับเทคโนโลยีใหม่ๆ
 - 👯 ฉันเปิดรับการทำงานร่วมกันในโปรเจกต์ที่น่าสนใจ
 - 💬 ถามฉันเกี่ยวกับการพัฒนาซอฟต์แวร์และเทคโนโลยี
-- 📫 ติดต่อฉันได้ที่: [อีเมลของคุณ]
+- 📫 ติดต่อฉันได้ที่: pingctpp137@gmail.com
 - ⚡ ข้อเท็จจริงที่น่าสนใจ: ฉันชอบค้นหาเทคโนโลยีใหม่ๆ และนำมาประยุกต์ใช้ในโปรเจกต์ของฉัน
 
 ## ทักษะและเครื่องมือ 🛠️
@@ -38,17 +38,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=punyawee&theme=tokyonight)
 
-## ผลงานที่โดดเด่น 🚀
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=punyawee&repo=project-1&theme=tokyonight)](https://github.com/punyawee/project-1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=punyawee&repo=project-2&theme=tokyonight)](https://github.com/punyawee/project-2)
-
-## เชื่อมต่อกับฉัน 🌐
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punyawee/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/punyawee)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/punyawee)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/punyawee)
 
 ---
 
